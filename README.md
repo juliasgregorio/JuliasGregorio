@@ -8,7 +8,7 @@ Meu nome é Júlia
 
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-## Você pode entrar em contato comigo 📧
+## Você pode entrar em contato comigo em... 📧
 
 juliasgregorio1@gmail.com
 
