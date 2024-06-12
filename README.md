@@ -15,5 +15,8 @@ juliasgregorio1@gmail.com
 ![](https://media1.tenor.com/m/9GXry8LQ_lkAAAAC/gravity-falls-hello.gif)
 
 <!--
+DICAS:
 ## SITE PARA PEGAR GIFS: tenor.com
+A palavra **limão** deve ser destacada (negrito **n**)
+> Escrito por Júlia (citação, observação e texto de referência > ...)
 -->
