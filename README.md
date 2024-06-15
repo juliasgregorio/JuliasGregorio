@@ -2,7 +2,7 @@
 
 Meu nome é Júlia 
 
-- Estou estudando na [Alura](https://www.alura.com.br);
+- Estou estudando programação através da platarfoma [Alura](https://www.alura.com.br);
 
 - Estou me desenvolvendo na linguagem JavaScript;
 
